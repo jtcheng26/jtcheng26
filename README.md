@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Cheng</h1>
-<h3 align="center">A motivated high school student looking for new challenges to solve</h3>
+<h3 align="center">A motivated student looking for new challenges to solve</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtcheng26&label=Profile%20views&color=0e75b6&style=flat" alt="jtcheng26" /> </p>
 
@@ -9,10 +9,10 @@
 
 - 📫 How to reach me **jtcheng226@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jeff-cheng-18887820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="jeff-cheng-18887820b" height="30" width="40" /></a>
-<a href="https://instagram.com/jt.cheng26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="jt.cheng26" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeff-cheng-18887820b" target="blank"><img align="center" src="socials/linkedin.png" alt="jeff-cheng-18887820b" height="30" width="40" /></a>
+<a href="https://instagram.com/jt.cheng26" target="blank"><img align="center" src="socials/instagram.svg" alt="jt.cheng26" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jt.cheng26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jt.cheng26" height="30" width="40" /></a>
 </p>
 

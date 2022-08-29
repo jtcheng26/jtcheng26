@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [A Chrome Extension](https://chrome.google.com/webstore/detail/tasks-for-canvas/kabafodfnabokkkddjbnkgbcbmipdlmb)
 
-- 🌱 I’m currently learning **Quantum Computing**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **jtcheng226@gmail.com**
 
